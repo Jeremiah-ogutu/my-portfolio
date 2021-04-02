@@ -18,3 +18,13 @@ h1{
     margin-right: auto;
     
 }
+.container{
+   text-align: center;
+}
+#list{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
