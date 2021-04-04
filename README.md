@@ -13,6 +13,6 @@ let it open in vs code.
 HTML
 CSS
 ### Live site
-
+https://jeremiah-ogutu.github.io/my-portfolio/
 ### LICENCE
 This project is under THE [MIT] (LICENCE)
