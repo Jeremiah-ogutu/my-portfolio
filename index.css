@@ -28,3 +28,14 @@ h1{
     align-items: center;
     
 }
+.navigation_bar>nav>a{
+    display: inline;
+    text-align: center;
+    padding: 14px 16px;
+    background-color: rgb(43, 226, 195);
+}
+.navigation_bar{
+    text-align: center;
+
+}
+
